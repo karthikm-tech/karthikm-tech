@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Karthik M!<br><br>🎓 Electronics & Communication Engineering student with hands-on experience in **Embedded Systems, IoT, PCB Design & Fabrication, and hardware development**.<br><br>🔧 I work with **ESP32, ESP8266, STM32, Arduino, and Raspberry Pi**, and have experience with **LoRa, Zigbee, I2C, SPI, UART, and USB**.<br><br>💻 Programming: **C | C++ | Python**<br><br>📡 Interested in **IoT, wireless communication, embedded hardware, robotics, PCB design, and innovative engineering solutions**.<br><br>🚀 My projects include a **LoRa-Based Emergency Alert System, 6-Wheel Surveillance Robot, and IoT-Based Smart Home Automation System**.<br><br>🏭 I also have professional experience in **UPS production and PCB/electronic component assembly at TMEIC India**, along with IoT project experience involving **ESP32, Raspberry Pi, sensors, KiCad, and AWS IoT**.<br><br>🌱 Always learning, building, and exploring new technologies in electronics and embedded systems.<br>
+👋 Hi, I'm Karthik M!<br><br>🎓 Electronics & Communication Engineering student with hands-on experience in **Embedded Systems, IoT, PCB Design & Fabrication, and hardware development**.
 
 
 ## 🌐 Socials:

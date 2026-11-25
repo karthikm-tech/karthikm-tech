@@ -1,27 +1,21 @@
-Name: Karthik M
-GitHub: karthikm-tech
-Role/company: Electronics & Communication Engineering Student | Former Production Line Technician at TMEIC India
-Location: Sullia, Karnataka, India
-Pitch: I build embedded systems, IoT applications, and electronics projects using microcontrollers, sensors, wireless communication, and hardware design.
+# 💫 About Me:
+👋 Hi, I'm Karthik M!<br><br>🎓 Electronics & Communication Engineering student with hands-on experience in **Embedded Systems, IoT, PCB Design & Fabrication, and hardware development**.
 
-Roles: Embedded Systems Engineer, IoT Developer, Firmware Engineer, Electronics Design Engineer
 
-Stack: C, C++, Python, Embedded C, ESP32, ESP8266, STM32, Arduino UNO, PIC, LoRa, LoRaWAN, UART, SPI, I²C, Wi-Fi, Bluetooth, PCB Design, Circuit Design, Sensors, Relays, IoT, Robotics
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/14kuwxKtYfG/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kxrthik_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthikm-tech) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/karthikmtech22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KarthikM4642299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikmtec@gmail.com) 
 
-Hobbies/interests: Electronics DIY, robotics, microcontroller projects
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=karthikm-tech&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=karthikm-tech&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthikm-tech&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Projects:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karthikm-tech&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-1. 6-Wheel Surveillance Robot – ESP32, ESP32-CAM, wireless control and remote monitoring.
-2. IoT-Based Smart Home Automation System – ESP8266-based Wi-Fi appliance control using relays and sensors.
-3. LoRa-Based Emergency Alert System – ESP32 and LoRa wireless emergency alert system with buttons, LCD, buzzer and visual indicators.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karthikm-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Socials:
 
-- GitHub: https://github.com/karthikm-tech
-- LinkedIn: https://www.linkedin.com/in/karthikm-tech
-- Instagram: Not provided
-- YouTube: Not provided
-- Topmate: Not provided
-
-Verified stats: Omit (no verified metrics provided).
